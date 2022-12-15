@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/meerfans/meerFaucet/static/css/main.52081a9e.css",
-    "main.js": "/meerfans/meerFaucet/static/js/main.3786c711.js",
-    "static/js/787.28cb0dcd.chunk.js": "/meerfans/meerFaucet/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.png": "/meerfans/meerFaucet/static/media/logo.2819065820b2459b1e29.png",
-    "index.html": "/meerfans/meerFaucet/index.html",
-    "main.52081a9e.css.map": "/meerfans/meerFaucet/static/css/main.52081a9e.css.map",
-    "main.3786c711.js.map": "/meerfans/meerFaucet/static/js/main.3786c711.js.map",
-    "787.28cb0dcd.chunk.js.map": "/meerfans/meerFaucet/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/meerFaucet/static/css/main.52081a9e.css",
+    "main.js": "/meerFaucet/static/js/main.d19d2b7b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/meerFaucet/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/meerFaucet/static/media/logo.2819065820b2459b1e29.png",
+    "index.html": "/meerFaucet/index.html",
+    "main.52081a9e.css.map": "/meerFaucet/static/css/main.52081a9e.css.map",
+    "main.d19d2b7b.js.map": "/meerFaucet/static/js/main.d19d2b7b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/meerFaucet/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52081a9e.css",
-    "static/js/main.3786c711.js"
+    "static/js/main.d19d2b7b.js"
   ]
 }
