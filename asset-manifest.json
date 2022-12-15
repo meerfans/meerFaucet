@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meerfans/meerFaucet.git/static/css/main.52081a9e.css",
+    "main.js": "/meerfans/meerFaucet.git/static/js/main.8e0048ec.js",
+    "static/js/787.28cb0dcd.chunk.js": "/meerfans/meerFaucet.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/meerfans/meerFaucet.git/static/media/logo.2819065820b2459b1e29.png",
+    "index.html": "/meerfans/meerFaucet.git/index.html",
+    "main.52081a9e.css.map": "/meerfans/meerFaucet.git/static/css/main.52081a9e.css.map",
+    "main.8e0048ec.js.map": "/meerfans/meerFaucet.git/static/js/main.8e0048ec.js.map",
+    "787.28cb0dcd.chunk.js.map": "/meerfans/meerFaucet.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52081a9e.css",
+    "static/js/main.8e0048ec.js"
+  ]
+}
