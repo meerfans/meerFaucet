@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/meerFaucet/static/css/main.649d597e.css",
-    "main.js": "/meerFaucet/static/js/main.655ae095.js",
+    "main.css": "/meerFaucet/static/css/main.e1d4e085.css",
+    "main.js": "/meerFaucet/static/js/main.5bb26e7f.js",
     "static/js/27.07ddfad5.chunk.js": "/meerFaucet/static/js/27.07ddfad5.chunk.js",
     "static/media/logo.png": "/meerFaucet/static/media/logo.2819065820b2459b1e29.png",
     "index.html": "/meerFaucet/index.html"
   },
   "entrypoints": [
-    "static/css/main.649d597e.css",
-    "static/js/main.655ae095.js"
+    "static/css/main.e1d4e085.css",
+    "static/js/main.5bb26e7f.js"
   ]
 }
